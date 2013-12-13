@@ -10761,7 +10761,7 @@ args = $slice.call(arguments, 0);
   var self = $opal.top, $scope = $opal, nil = $opal.nil, $breaker = $opal.breaker, $slice = $opal.slice;
   $opal.add_stubs(['$puts']);
   ;
-  return self.$puts("Hello World!");
+  return self.$puts("Hello Renée!");
 })(Opal);
 
 //@ sourceMappingURL=/__opal_source_maps__/application.js.map
