@@ -10,4 +10,5 @@ puts "Hello Renée!"
 
 t = Test.new 'Adam'
 puts t.name
+t.fetch_name
 puts t.is_me?

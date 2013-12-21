@@ -7,4 +7,8 @@ class Test
   def is_me?
     @name == 'Adam'
   end
+
+  def fetch_name
+    @name = `window.prompt( 'please enter yo name', 'Adam')`
+  end
 end
